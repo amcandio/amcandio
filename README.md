@@ -1,6 +1,6 @@
 # Alejandro Candioti
 
-**Senior Software Engineer at Amazon** · **[NetworkX Core Developer](https://networkx.org/documentation/stable/developer/about_us.html)** · Open-source contributor
+**Senior Software Engineer at AWS** · **[NetworkX Core Developer](https://networkx.org/documentation/stable/developer/about_us.html)** · Open-source contributor
 
 I lead traffic engineering for the **[AWS Backbone](https://aws.amazon.com/about-aws/global-infrastructure/global-network/)**, working on network controllers, algorithms, and infrastructure at scale. In my spare time, I contribute to open-source projects, primarily NetworkX.
 
